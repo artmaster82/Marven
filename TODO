@@ -3,3 +3,7 @@ v1.0.0:
         Different badges, e.g. Bronze, Silver, etc as rewards for recruitment.
     ☐ 24/7 bot controlled music.
     ☐ Xp leveling system.
+    ☐ Manual failsafe protocol.
+        Kill Marven in the event of catastrophic failure. Automatic detection of issues like spam will come later.
+    ☐ Gain access to endorsed games individually.
+        Keep the server tidy for users, so they only have access to what they want to.
