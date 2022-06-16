@@ -1,9 +1,20 @@
+v0.1.0:
+    ☐ Skeleton for referral rewards:
+        ☐ Create a referral code for a user when they join.
+        ☐ When a user joins, prompt them to input the code they were given (if any).
+        ☐ Record the referral to the invitee's file.
+
 v1.0.0:
     ☐ Rewards for inviting new members.
         Different badges, e.g. Bronze, Silver, etc as rewards for recruitment.
-    ☐ 24/7 bot controlled music.
     ☐ Xp leveling system.
-    ☐ Manual failsafe protocol.
-        Kill Marven in the event of catastrophic failure. Automatic detection of issues like spam will come later.
+
+Unversioned:
     ☐ Gain access to endorsed games individually.
         Keep the server tidy for users, so they only have access to what they want to.
+    ☐ 24/7 bot controlled music.
+
+
+Ideas:
+    ☐ Manual failsafe protocol.
+        Kill Marven in the event of catastrophic failure. Manual and automatic versions.
